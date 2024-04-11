@@ -10,6 +10,7 @@
 
 # Content Usage instructions
     #1 Matlab codes is running on Matlab 2014a;
+    #2 The version of SolidWorks is 2023;
 
 -------------------------------------------------------------------------------------------------------------------------
 # Suggestions for using our open source information
